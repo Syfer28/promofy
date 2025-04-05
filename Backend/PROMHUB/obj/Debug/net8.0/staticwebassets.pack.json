@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Рабочий стол\\self\\PROMHUB\\backend\\promhub\\wwwroot\\img\\Apples.jpg",
+      "PackagePath": "staticwebassets\\img\\Apples.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Рабочий стол\\self\\PROMHUB\\backend\\promhub\\wwwroot\\img\\Apples2.jpg",
+      "PackagePath": "staticwebassets\\img\\Apples2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Рабочий стол\\self\\PROMHUB\\backend\\promhub\\wwwroot\\img\\Apples3.jpg",
+      "PackagePath": "staticwebassets\\img\\Apples3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Рабочий стол\\self\\PROMHUB\\backend\\promhub\\wwwroot\\img\\Apples4.jpg",
+      "PackagePath": "staticwebassets\\img\\Apples4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Рабочий стол\\self\\PROMHUB\\backend\\promhub\\wwwroot\\img\\Bananas.jpg",
+      "PackagePath": "staticwebassets\\img\\Bananas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Рабочий стол\\self\\PROMHUB\\backend\\promhub\\wwwroot\\img\\Grapes.jpg",
+      "PackagePath": "staticwebassets\\img\\Grapes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Рабочий стол\\self\\PROMHUB\\backend\\promhub\\wwwroot\\img\\Lidl.PNG",
+      "PackagePath": "staticwebassets\\img\\Lidl.PNG"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Рабочий стол\\self\\PROMHUB\\backend\\promhub\\wwwroot\\img\\Maxima.PNG",
+      "PackagePath": "staticwebassets\\img\\Maxima.PNG"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Рабочий стол\\self\\PROMHUB\\backend\\promhub\\wwwroot\\img\\Mego.PNG",
+      "PackagePath": "staticwebassets\\img\\Mego.PNG"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Рабочий стол\\self\\PROMHUB\\backend\\promhub\\wwwroot\\img\\Rimi.PNG",
+      "PackagePath": "staticwebassets\\img\\Rimi.PNG"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PROMHUB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PROMHUB.props",
+      "PackagePath": "build\\PROMHUB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PROMHUB.props",
+      "PackagePath": "buildMultiTargeting\\PROMHUB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PROMHUB.props",
+      "PackagePath": "buildTransitive\\PROMHUB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

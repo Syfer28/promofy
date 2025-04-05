@@ -1,0 +1,6 @@
+@PROMHUB_HostAddress = http://localhost:5275
+
+GET {{PROMHUB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
